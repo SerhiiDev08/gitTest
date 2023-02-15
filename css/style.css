@@ -3,6 +3,7 @@ body{
 }
 p{
 	color: #7f7d92;
+	text-decoration: underline;
 }
 h1{
 	font-size: 40px;
