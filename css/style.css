@@ -1,3 +1,10 @@
 body{
 	background-color: #0d0364;
 }
+p{
+	color: #7f7d92;
+}
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
